@@ -1,0 +1,1 @@
+result: This is the first file This is the second fileresult: This is the first file This is the second file
